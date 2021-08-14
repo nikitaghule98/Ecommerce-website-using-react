@@ -61,6 +61,7 @@ const Product = ({ match }) => {
           <hr />
         </div>
       </div>
+      
 
       <div className="row pb-5">
         {related.length ? (
